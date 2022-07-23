@@ -6,6 +6,3 @@
 
 ## Dibiasing Variational Auto-Encoder
 ![DB VAE](https://github.com/Themoonflow/De-biasingFacialRecognitionSystem/blob/main/img/DB-VAE.png)
-
-## Without and With learning DB-VAE
-![Random Batch Sampling VS. with learnt latent structure](https://www.researchgate.net/profile/Ava-Soleimany/publication/334381622/figure/fig1/AS:779301393801218@1562811339790/Batches-sampled-for-training-without-left-and-with-right-learned-debiasing-The.png)
